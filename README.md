@@ -13,12 +13,23 @@ Using your knowledge of Ruby on Rails >= 4.2 generate a Rails app that calculate
 * use a SQLite relational database
 * contain at least 3 ActiveRecord models
 * use ERB templates, no Haml or Slim..etc 
-* be visible on mobile devices
+* seed data from NYC Open Data's JSON api
+* be responsive
 
 As a user on the site I am able to see a list of all building addresses with measurements totals by year.
 
 ### Sample
-![alt tag](http://url/to/img.png)
+![ScreenShot](https://raw.github.com/StreetEasy/nyc-eu-codning-exercise/instructions/energyusage_report.png)
 
+### Seeding Source Data
+NYC Data Api Url: https://data.cityofnewyork.us/resource/dnpn-ts5d.json
+
+
+### Submitting your solution
+Once your exercise is complete, commit your work, create a patch file and send that to us. Please _do not_ fork this public GitHub repo. We don't want other people copying your work! To create the patch:
+
+``` git format-patch origin/master --stdout > fe-ws.patch ```
+
+Good Luck and Enjoy!
 
 
