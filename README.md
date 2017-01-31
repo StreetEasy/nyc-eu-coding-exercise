@@ -33,7 +33,7 @@ https://data.cityofnewyork.us/Environment/Energy-Usage-From-DOE-Buildings/mq6n-s
 ### Submitting your solution
 Once your exercise is complete, commit your work, create a patch file and send that to us. Please _do not_ fork this public GitHub repo. We don't want other people copying your work! To create the patch:
 
-``` git format-patch origin/master --stdout > nyc-eu-coding-exercise.patch ```
+``` git format-patch origin/master --stdout > nyc-eu-coding-exercise-[your last name].patch ```
 
 Good Luck and Enjoy!
 
