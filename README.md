@@ -27,7 +27,7 @@ https://data.cityofnewyork.us/Environment/Energy-Usage-From-DOE-Buildings/mq6n-s
 
 ### Tips/Suggestions
 
-* Specs are not necissary, but we sure do like them ;)
+* Specs are not necessary, but we sure do like them ;)
 * Feel free to use any gems or libraries you would like
 
 ### Submitting your solution
