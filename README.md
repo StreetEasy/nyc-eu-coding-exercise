@@ -28,7 +28,7 @@ NYC Data Api Url: https://data.cityofnewyork.us/resource/dnpn-ts5d.json
 ### Submitting your solution
 Once your exercise is complete, commit your work, create a patch file and send that to us. Please _do not_ fork this public GitHub repo. We don't want other people copying your work! To create the patch:
 
-``` git format-patch origin/master --stdout > fe-ws.patch ```
+``` git format-patch origin/master --stdout > nyc-eu-codning-exercise.patch ```
 
 Good Luck and Enjoy!
 
