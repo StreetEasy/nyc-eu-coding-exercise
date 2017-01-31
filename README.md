@@ -22,12 +22,13 @@ As a user on the site I am able to see a list of all building addresses with mea
 ![ScreenShot](https://raw.github.com/StreetEasy/nyc-eu-codning-exercise/instructions/energyusage_report.png)
 
 ### Seeding Source Data
-NYC Data Api Url: https://data.cityofnewyork.us/resource/dnpn-ts5d.json
+NYCData Energy Usage Api Url: https://data.cityofnewyork.us/resource/dnpn-ts5d.json
+https://data.cityofnewyork.us/Environment/Energy-Usage-From-DOE-Buildings/mq6n-s45c
 
 ### Tips/Suggestions
 
 * Specs are not necissary, but we sure do like them ;)
-* Feel free to use any gems, or libraries you would like
+* Feel free to use any gems or libraries you would like
 
 ### Submitting your solution
 Once your exercise is complete, commit your work, create a patch file and send that to us. Please _do not_ fork this public GitHub repo. We don't want other people copying your work! To create the patch:
