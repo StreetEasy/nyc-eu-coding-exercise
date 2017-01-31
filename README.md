@@ -19,7 +19,7 @@ Using your knowledge of Ruby on Rails >= 4.2 generate a Rails app that calculate
 As a user on the site I am able to see a list of all building addresses with measurements totals by year. The user should be able to toggle the year via a drop down control. 
 
 ### Sample
-![ScreenShot](https://raw.github.com/StreetEasy/nyc-eu-codning-exercise/instructions/energyusage_report.png)
+![ScreenShot](https://raw.github.com/StreetEasy/nyc-eu-codning-exercise/master/energyusage_report.png)
 
 ### Seeding Source Data
 NYCData Energy Usage Api Url: https://data.cityofnewyork.us/resource/dnpn-ts5d.json
