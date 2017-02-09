@@ -3,7 +3,7 @@
 Hello! Thanks for your interest in applying for the Ruby on Rails developer position at StreetEasy. This is the work sample that we use to evaluate your development skills. 
 
 ## Instructions
-Using your knowledge of Ruby on Rails >= 4.2 generate a Rails app that calculates NYC building energy usage per year and displays the report on a page. This project should take at least 90 mins.
+Using your knowledge of Ruby on Rails >= 4.2 generate a Rails app that calculates NYC building energy usage per year and displays the report on a page. This project should take >= 90 mins.
 
 ## Requirements
 
